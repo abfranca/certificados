@@ -1,4 +1,6 @@
 # Meus certificados.
+## Linux Experience
+- https://www.dio.me/certificate/FB683CC3
 ## Carrefour Web Developer
 - https://www.dio.me/certificate/D28C6AE7
 ## GFT Quality Assurance #1
