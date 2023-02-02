@@ -1,4 +1,6 @@
 # Meus certificados.
+## Linux do Zero
+- https://www.dio.me/certificate/F57A4F8B
 ## Linux Experience
 - https://www.dio.me/certificate/FB683CC3
 ## Carrefour Web Developer
