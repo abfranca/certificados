@@ -1,4 +1,6 @@
 # Meus certificados.
+## Aceleração Internacional para Profissionais de Tecnologia - Advanced Java Path
+- https://www.dio.me/certificate/F24E0D67
 ## Linux do Zero
 - https://www.dio.me/certificate/F57A4F8B
 ## Linux Experience
