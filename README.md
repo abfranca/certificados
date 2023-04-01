@@ -1,6 +1,8 @@
 # Meus certificados.
 ## Aceleração Internacional para Profissionais de Tecnologia - Advanced Java Path
 - https://www.dio.me/certificate/F24E0D67
+## Banco PAN Java Developer
+- https://www.dio.me/certificate/A313C454
 ## Carrefour Web Developer
 - https://www.dio.me/certificate/D28C6AE7
 ## GFT Quality Assurance #1
