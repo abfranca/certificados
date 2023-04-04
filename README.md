@@ -7,7 +7,7 @@
 - https://www.dio.me/certificate/D28C6AE7
 ## GFT Quality Assurance #1 [🗎](https://github.com/abfranca/certificados/blob/main/PDF/GFT%20Quality%20Assurance%20%231.pdf)
 - https://www.dio.me/certificate/3BFE80BB
-## Data Science: Visualização de dados com Python [🗎]()
+## Data Science: Visualização de dados com Python [🗎](https://github.com/abfranca/certificados/blob/main/PDF/Data%20Science%20-%20Visualiza%C3%A7%C3%A3o%20de%20dados%20com%20Python.pdf)
 - https://certificados.alfahelix.com.br/ (TEO77H)
 ## Introdução ao Python [🗎](https://github.com/abfranca/certificados/blob/main/PDF/Introdu%C3%A7%C3%A3o%20ao%20Python.pdf)
 - https://certificados.alfahelix.com.br/ (8OONE8)
