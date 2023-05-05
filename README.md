@@ -9,6 +9,8 @@
 - https://www.dio.me/certificate/3BFE80BB
 ## Data Science: Visualização de dados com Python [🗎](https://github.com/abfranca/certificados/blob/main/PDF/Data%20Science%20-%20Visualiza%C3%A7%C3%A3o%20de%20dados%20com%20Python.pdf)
 - https://certificados.alfahelix.com.br/ (TEO77H)
+## BLAST: Ferramenta de Alinhamentos Locais de Sequências [🗎]()
+- https://certificados.alfahelix.com.br/ (Y1A9IJ)
 ## Introdução ao Python [🗎](https://github.com/abfranca/certificados/blob/main/PDF/Introdu%C3%A7%C3%A3o%20ao%20Python.pdf)
 - https://certificados.alfahelix.com.br/ (8OONE8)
 ## Introdução à Linguagem HTML [🗎](https://github.com/abfranca/certificados/blob/main/PDF/Introdu%C3%A7%C3%A3o%20%C3%A0%20Linguagem%20HTML.pdf)
