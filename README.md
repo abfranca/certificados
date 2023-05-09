@@ -1,4 +1,6 @@
 # Meus certificados.
+## Aceleração Avanade Angular [🗎]()
+- https://www.dio.me/certificate/C4CF7664
 ## Aceleração Internacional para Profissionais de Tecnologia - Advanced Java Path [🗎](https://github.com/abfranca/certificados/blob/main/PDF/Acelera%C3%A7%C3%A3o%20Internacional%20para%20Profissionais%20de%20Tecnologia%20-%20Advanced%20Java%20Path.pdf)
 - https://www.dio.me/certificate/F24E0D67
 ## Banco PAN Java Developer [🗎](https://github.com/abfranca/certificados/blob/main/PDF/Banco%20PAN%20Java%20Developer.pdf)
