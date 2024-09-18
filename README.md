@@ -1,4 +1,3 @@
-# Meus certificados.
 ## Aceleração Avanade Angular [🗎](https://github.com/abfranca/certificados/blob/main/PDF/Acelera%C3%A7%C3%A3o%20Avanade%20Angular.pdf)
 - https://www.dio.me/certificate/C4CF7664
 ## Aceleração Avanade Spring Boot [🗎](https://github.com/abfranca/certificados/blob/main/PDF/Acelera%C3%A7%C3%A3o%20Avanade%20Spring%20Boot.pdf)
