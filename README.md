@@ -12,6 +12,8 @@
 - 
 ## Carrefour Web Developer [🗎](https://github.com/abfranca/certificados/blob/main/PDF/Carrefour%20Web%20Developer.pdf)
 - https://www.dio.me/certificate/D28C6AE7
+## Checkmarx Codebashing course HTTP Security Principles [🗎](https://github.com/abfranca/certificados/blob/main/PDF/Checkmarx%20Codebashing%20course%20HTTP%20Security%20Principles.pdf)
+- 
 ## Checkmarx Codebashing course Java [🗎](https://github.com/abfranca/certificados/blob/main/PDF/Checkmarx%20Codebashing%20course%20Java.pdf)
 - 
 ## Data Science: Visualização de dados com Python [🗎](https://github.com/abfranca/certificados/blob/main/PDF/Data%20Science%20-%20Visualiza%C3%A7%C3%A3o%20de%20dados%20com%20Python.pdf)
